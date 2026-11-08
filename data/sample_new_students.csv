@@ -1,0 +1,16 @@
+school,sex,age,address,famsize,Pstatus,Medu,Fedu,traveltime,studytime,failures,schoolsup,famsup,paid,activities,higher,internet,romantic,famrel,freetime,goout,Dalc,Walc,health,absences
+MS,M,18,R,LE3,T,1.0,4,1,3.0,0,no,no,no,no,yes,no,yes,4,2,1,1,2,4,3.0
+GP,F,18,U,GT3,T,1.0,0,1,4.0,1,no,no,yes,no,yes,yes,no,5,5,3,4,3,5,9.0
+MS,F,19,R,GT3,T,2.0,3,2,2.0,0,no,yes,no,no,yes,yes,no,4,4,1,1,3,1,2.0
+GP,F,19,U,LE3,T,3.0,2,1,2.0,0,yes,yes,no,yes,yes,,no,5,1,1,1,1,1,6.0
+GP,M,18,U,GT3,T,1.0,3,1,3.0,0,yes,yes,no,no,yes,yes,no,3,5,1,1,3,4,5.0
+MS,F,16,R,LE3,T,3.0,0,1,2.0,0,no,yes,yes,yes,yes,yes,no,5,1,1,1,3,3,6.0
+MS,F,17,U,GT3,T,3.0,2,2,3.0,0,yes,yes,no,yes,yes,,no,5,2,1,1,3,4,4.0
+MS,F,17,U,GT3,T,0.0,3,3,,1,no,no,no,no,yes,yes,yes,4,4,5,1,1,5,6.0
+GP,M,18,U,GT3,T,4.0,1,2,1.0,1,no,yes,yes,yes,yes,yes,no,3,3,5,2,2,1,6.0
+GP,M,19,U,LE3,T,0.0,4,3,2.0,0,yes,yes,no,yes,yes,no,no,4,3,3,1,5,5,6.0
+GP,F,16,U,GT3,T,3.0,2,2,1.0,2,no,no,no,yes,yes,yes,no,2,5,2,2,2,1,6.0
+MS,F,17,U,LE3,T,2.0,1,2,4.0,0,no,yes,no,yes,yes,yes,no,4,4,1,1,2,3,4.0
+GP,F,15,U,LE3,A,3.0,0,1,1.0,0,no,yes,no,no,yes,yes,no,5,5,5,1,5,5,4.0
+MS,M,18,U,GT3,T,3.0,0,2,3.0,0,no,yes,yes,yes,yes,yes,no,4,2,4,1,1,4,7.0
+GP,M,17,U,GT3,T,3.0,2,1,1.0,0,no,no,no,yes,yes,yes,no,3,5,4,1,2,2,5.0

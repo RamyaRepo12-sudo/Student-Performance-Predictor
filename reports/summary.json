@@ -1,0 +1,48 @@
+{
+  "eda": {
+    "rows": 1000,
+    "cols": 28,
+    "missing_cells": 113,
+    "pass_rate": 0.69,
+    "top_corr": {
+      "G2": 0.871,
+      "G1": 0.832,
+      "failures": -0.378,
+      "studytime": 0.276,
+      "Medu": 0.14,
+      "age": -0.127
+    },
+    "raw_rows": 1008,
+    "duplicates_removed": 8
+  },
+  "importance": {
+    "early": {
+      "failures": 0.8754,
+      "studytime": 0.3255,
+      "higher": 0.2182,
+      "Medu": 0.0693,
+      "age": 0.0616,
+      "Walc": 0.0481,
+      "Fedu": 0.0338,
+      "paid": 0.0328,
+      "famsize": 0.0315,
+      "goout": 0.0239
+    },
+    "midterm": {
+      "G2": 3.0376,
+      "G1": 0.1499,
+      "failures": 0.0279,
+      "famsize": 0.0128,
+      "studytime": 0.0122,
+      "famsup": 0.0034,
+      "Medu": 0.0031,
+      "Fedu": 0.003,
+      "traveltime": 0.0023,
+      "activities": 0.0011
+    }
+  },
+  "best": {
+    "early": "Ridge Regression",
+    "midterm": "Ridge Regression"
+  }
+}
